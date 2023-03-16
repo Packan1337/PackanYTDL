@@ -1,0 +1,3 @@
+([('PackanYTDL',
+   '/Users/packan/Desktop/gpt4 yt dl/dist/PackanYTDL',
+   'EXECUTABLE')],)
